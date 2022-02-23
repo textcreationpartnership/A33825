@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of paintings by the best masters. Will be sold by auction, on Wednesday the 25th. of Septemb. 1689. at the Outropers Office in the west end of the Royal Exchange The sale will begin at three afternoon precisely. Catalogues of which may be had at the said office, Mr. Nott's in the Pall Mall, the Royal Coffee-house near White-hall, Mr. Wotton's near the Inner Temple, Mr. Sare's in Grays-Inn-Gate, Holbourn; and at Mr. Bennets in St. Pauls Church-Yard. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three dayes after at the said place, and paying porterage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33825</idno>
+            <idno type="STC">Wing C5153</idno>
+            <idno type="STC">ESTC R214255</idno>
+            <idno type="EEBO-CITATION">99826457</idno>
+            <idno type="PROQUEST">99826457</idno>
+            <idno type="VID">30860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1827:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of paintings by the best masters. Will be sold by auction, on Wednesday the 25th. of Septemb. 1689. at the Outropers Office in the west end of the Royal Exchange The sale will begin at three afternoon precisely. Catalogues of which may be had at the said office, Mr. Nott's in the Pall Mall, the Royal Coffee-house near White-hall, Mr. Wotton's near the Inner Temple, Mr. Sare's in Grays-Inn-Gate, Holbourn; and at Mr. Bennets in St. Pauls Church-Yard. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three dayes after at the said place, and paying porterage.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="auction_catalogue">
+            <pb facs="tcp:30860:1"/>
+            <pb facs="tcp:30860:1" rendition="simple:additions"/>
+            <p>A COLLECTION OF PAINTINGS By the beſt Maſters.</p>
+            <p>Will be Sold by Auction, on Wedneſday the 25th. of <hi>Septemb.</hi> 1689. At the <hi>O<g ref="char:V">Ʋ</g>TROPERS</hi> OFFICE in the Weſt End of the <hi>Royal Exchange.</hi>
+            </p>
+            <p>The Sale will begin at Three Afternoon preciſely.</p>
+            <p>Catalogues of which may be had at the ſaid Office, Mr. <hi>Nott</hi>'s in the <hi>Pall Mall,</hi> the <hi>Royal</hi> Coffee-houſe near <hi>White-hall,</hi> Mr. <hi>Wotton</hi>'s near the <hi>Inner Temple,</hi> Mr. <hi>Sare</hi>'s in <hi>Grays-Inn-Gate, Holbourn;</hi> and at Mr. <hi>Bennets</hi> in St. <hi>Pauls Church-Yard.</hi>
+            </p>
+            <p>
+               <hi>The Conditions of Sale as uſual, and the Time of Paying and Fetching away the Lots ſo bought, to be within Three dayes after at the ſaid place, and paying Porterage.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb facs="tcp:30860:2"/>
+            <pb n="1" facs="tcp:30860:2"/>
+            <head>A COLLECTION OF PAINTINGS.</head>
+            <list>
+               <item>No.</item>
+               <item>1 Five pieces 5 Senſes of <hi>Hemskirk</hi> in Gold Frames.</item>
+               <item>2 A Landskip.</item>
+               <item>3 Two Philoſophers, <hi>Heraclitus</hi> and <hi>Democritus,</hi> by <hi>Hemskirk.</hi>
+               </item>
+               <item>4 A Rabbit and Partridge.</item>
+               <item>5 A piece of Birds in a Gold Frame.</item>
+               <item>6 Twelve Roman <hi>Caeſars</hi> Heads.</item>
+               <item>7 A Landskip of <hi>Fruellen Brugell</hi> in a Gold Frame.</item>
+               <item>8 One piece of <hi>Hemskirk</hi> Prieſts Carouſing.</item>
+               <item>9 A Woman with a Roſe.</item>
+               <item>10 The Feaſt of the Gods in any Ebony Frame.</item>
+               <item>11 Converſation in an Ebony Frame of old <hi>Francke.</hi>
+               </item>
+               <item>12 Five Faces of <hi>Hemskirke</hi> in Gold Frames.</item>
+               <item>13 Charity.</item>
+               <item>14 A Flower piece in a Black Frame.</item>
+               <item>15 The four parts of the World.</item>
+               <item>16 A Sea piece done by <hi>Skinner.</hi>
+               </item>
+               <item>17 A Drinking piece of <hi>Teniers.</hi>
+               </item>
+               <item>18 <hi>Procris</hi> and <hi>Ciphilus.</hi>
+               </item>
+               <item>19 A piece of Birds.</item>
+               <item>20 The Nativity of Our Saviour.</item>
+               <item>21 A Boy and Girle after <hi>Grotius.</hi>
+               </item>
+               <item>22 A Boy playing upon a Flute.</item>
+               <pb n="2" facs="tcp:30860:3"/>
+               <item>23 An Original piece of Grapes in a Gold Frame.</item>
+               <item>24 A Pidgeon hanging by the heels.</item>
+               <item>25 <hi>Reubens</hi> Wife and Son by one of His Diſciples.</item>
+               <item>26 <hi>Venus</hi> and <hi>Paris</hi> toſſing a Golden Apple.</item>
+               <item>27 The deſtruction of <hi>Troy.</hi>
+               </item>
+               <item>28 A Fighting piece of <hi>Hemskirke.</hi>
+               </item>
+               <item>29 <hi>A</hi> Sketch of <hi>Brugell</hi> in a Gold Frame.</item>
+               <item>30 <hi>A</hi> piece of Birds.</item>
+               <item>31 Lady <hi>Howard</hi> after <hi>Vandyke.</hi>
+               </item>
+               <item>32 <hi>An</hi> original Fruit pc by <hi>Evanbrooke.</hi>
+               </item>
+               <item>33 <hi>A</hi> Landskip.</item>
+               <item>34 <hi>A</hi> Head.</item>
+               <item>35 <hi>A</hi> Battel by <hi>Vanzanton.</hi>
+               </item>
+               <item>36 <hi>An</hi> original Landskip in a Gold Frame.</item>
+               <item>37 St. <hi>Peter</hi> and St. <hi>John</hi> Curing the impotent man.</item>
+               <item>38 <hi>A</hi> piece of <hi>Hemskirk,</hi> being Tobacco.</item>
+               <item>39 <hi>A</hi> Fox original of old <hi>Boote.</hi>
+               </item>
+               <item>40 <hi>A</hi> bunch of Grapes.</item>
+               <item>41 Queen <hi>Elizabeth.</hi>
+               </item>
+               <item>42 a pc of Drinking by <hi>Hemskirke.</hi>
+               </item>
+               <item>43 a Naked Woman an Original.</item>
+               <item>44 a Fruit pc by <hi>Everbrook.</hi>
+               </item>
+               <item>45 a Spaniard.</item>
+               <item>46 Two Figures with Muſick by <hi>Johnſon.</hi>
+               </item>
+               <item>47 Oliver <hi>Cromwell.</hi>
+               </item>
+               <item>48 Our Saviour on the Croſs.</item>
+               <item>49 The burial of our Saviour.</item>
+               <item>50 a Sea pc of <hi>Peter Vander Velten.</hi>
+               </item>
+               <item>51 a boy lighting Flax.</item>
+               <item>52 a large pc of Hunting Wild Cats.</item>
+               <item>53 a Courtezan Original of <hi>Palmer.</hi>
+               </item>
+               <item>54 a Womans Head by <hi>Vandyke.</hi>
+               </item>
+               <item>55 Earl of <hi>Pembrook</hi>
+               </item>
+               <item>56 a Sea pc of <hi>Vander Velden.</hi>
+               </item>
+               <item>57 Boys with a Vizard.</item>
+               <item>58 Lot and his Family going out of <hi>Sodom.</hi>
+               </item>
+               <item>59 a Landskip.</item>
+               <item>60 a Ruine with Figures.</item>
+               <item>61 King <hi>Charles the</hi> I after <hi>Vandyke.</hi>
+               </item>
+               <item>62 Our Saviour going to <hi>Aegypt.</hi>
+               </item>
+               <item>63 a Fruit pc and Original.</item>
+               <item>64 a Landskip by <hi>Wick</hi> and <hi>Wee.</hi>
+               </item>
+               <item>65 Sir <hi>Anth. Vandykes</hi> head after himſelf.</item>
+               <item>66 Four quarters of the World.</item>
+               <item>67 Our Saviour carrying his Croſs.</item>
+               <item>68 <hi>Judith</hi> and <hi>Holofernes.</hi>
+               </item>
+               <item>69 The Virgin <hi>Mary</hi> and our Saviour.</item>
+               <item>70 a flower pc an Original of <hi>Vanbrugen.</hi>
+               </item>
+               <pb n="3" facs="tcp:30860:3"/>
+               <item>71 a German Fidler an Original of <hi>Peter Brugell.</hi>
+               </item>
+               <item>72 Boys with a Goat.</item>
+               <item>73 a boy Catching a Butter-flye.</item>
+               <item>74 a Fruit pc with a bird.</item>
+               <item>75 a Landskip by an Italian Maſter.</item>
+               <item>76 The Counteſs of <hi>Pembrook.</hi>
+               </item>
+               <item>77 a banquet with a pickled Herring an Original.</item>
+               <item>78 a boy with a Shield.</item>
+               <item>79 a Cookery by old <hi>Hemskirk.</hi>
+               </item>
+               <item>80 an old Woman.</item>
+               <item>81 a pc of Grapes.</item>
+               <item>82 a Baccanalia.</item>
+               <item>83 Two Girles.</item>
+               <item>84 a Landskip of <hi>Langreen.</hi>
+               </item>
+               <item>85 a Girl in a black Frame.</item>
+               <item>86 <hi>Venus</hi> and <hi>Cupid.</hi>
+               </item>
+               <item>87 a Landskip of <hi>Streeter</hi> with Ruins.</item>
+               <item>88 a pc of butter-flies an Original</item>
+               <item>89 a boy in a black Frame.</item>
+               <item>90 a pc of Fruit in a China Diſh.</item>
+               <item>91 Two Dogs with an Ox head.</item>
+               <item>92 a Girle.</item>
+               <item>93 a Vanity with Fowl.</item>
+               <item>94 Three Figures.</item>
+               <item>95 a Dutch boy.</item>
+               <item>96 a Man with a Hen.</item>
+               <item>97 Two boys of <hi>Shuſanier.</hi>
+               </item>
+               <item>98 St. <hi>Jerome</hi> an Original of <hi>Peter Tyſon.</hi>
+               </item>
+               <item>99 Our Saviours laſt Supper.</item>
+               <item>100 a Drunken pc of <hi>Hemskirk.</hi>
+               </item>
+               <item>101 <hi>Lucretia</hi> of <hi>Streeter.</hi>
+               </item>
+               <item>102 King <hi>Charles the Second.</hi>
+               </item>
+               <item>103 <hi>Phoebus</hi> and <hi>Mercury.</hi>
+               </item>
+               <item>104 a Landskip by <hi>Long, Scut, Bladel.</hi>
+               </item>
+               <item>105 a Copy of Drinking after <hi>Teniers.</hi>
+               </item>
+               <item>106 a Man leading a Horſe.</item>
+               <item>107 a St. <hi>John's</hi> Head.</item>
+               <item>108 a Lobſter.</item>
+               <item>109 a pc of <hi>Teniers.</hi>
+               </item>
+               <item>110 <hi>Samſon</hi> by <hi>Streeter.</hi>
+               </item>
+               <item>111 a Battle in a black Frame.</item>
+               <item>112 King of <hi>Poland</hi> an Original.</item>
+               <item>113 a Landskip by a good hand.</item>
+               <item>114 a Mans Head.</item>
+               <item>115 a Satyr and a Woman in a Gold Frame.</item>
+               <item>116 Hunting a Buck.</item>
+               <item>117 a pc of <hi>Hemskirke</hi> a man catching at a Woman.</item>
+               <item>118 K. <hi>Poſena,</hi> and the Roman Soldier.</item>
+               <pb n="4" facs="tcp:30860:4"/>
+               <item>119 A pc of <hi>Hemskirk</hi> a boy pulling a Woman.</item>
+               <item>120 <hi>Thetis</hi> a naked Figure by a good hand.</item>
+               <item>121 a ſmall pc with a Horſe.</item>
+               <item>122 King <hi>Charles</hi> the Second.</item>
+               <item>123 a Landskip done by <hi>Vanhooke.</hi>
+               </item>
+               <item>124 a bunch of Grapes.</item>
+               <item>125 a pc of Pheſants and a bottle.</item>
+               <item>126 a Hermet.</item>
+               <item>127 a Landskip.</item>
+               <item>128 Two birds in a Gold Frame.</item>
+               <item>129 Lady <hi>Jones</hi> after <hi>Vandyke.</hi>
+               </item>
+               <item>130 a ſmall battle.</item>
+               <item>131 a Landskip of <hi>Vancauble</hi> with a Gold Frame.</item>
+               <item>132 Two Hedghogs in a Landskip.</item>
+               <item>133 <hi>Suſanna</hi> and the two Elders.</item>
+               <item>134 a pc of Fruit and Flowers.</item>
+               <item>135 a <hi>Magdalen</hi> an Original.</item>
+               <item>136 an Original Vanity of old <hi>Guysbrooks.</hi>
+               </item>
+               <item>137 a Fruit pc of <hi>Guilmans.</hi>
+               </item>
+               <item>138 <hi>Hagar</hi> and <hi>Iſhmael</hi> by <hi>Streeter.</hi>
+               </item>
+               <item>139 Salutation of St. <hi>John</hi> and our Saviour.</item>
+               <item>140 a pc of Fowl.</item>
+               <item>141 a Landskip by a Good hand.</item>
+               <item>142 The <hi>Piſanno</hi> of <hi>Rome</hi> ſaid to be done by <hi>Baſſann.</hi>
+               </item>
+               <item>143 a pleaſant Landskip.</item>
+               <item>144 The City of <hi>Naples.</hi>
+               </item>
+               <item>145 a Landskip an Original of <hi>Foocus.</hi>
+               </item>
+               <item>146 a Converſation of old <hi>Queline.</hi>
+               </item>
+               <item>147 a Muſical Entertainment after <hi>Courtiers.</hi>
+               </item>
+               <item>148 a Landskip an Original of <hi>Foocus.</hi>
+               </item>
+               <item>149 Our Saviour paying Tribute.</item>
+               <item>150 St. <hi>Katheriue</hi> done by <hi>Roſey.</hi>
+               </item>
+               <item>151 a very fine Vanity</item>
+               <item>152 a Landskip a ſquare piece.</item>
+               <item>153 <hi>Venus</hi> and <hi>Cupid</hi> in an Ebony Frame.</item>
+               <item>154 <hi>Venus</hi> taking out a Thorn.</item>
+               <item>155 a Rabbet.</item>
+               <item>156 <hi>Hugh Peters</hi> the Divine Painted by the life.</item>
+               <item>157 an old Mans head in a black Frame.</item>
+               <item>158 <hi>Joſeph</hi> and <hi>Mary</hi> in a Landskip.</item>
+               <item>159 <hi>Ammon</hi> and <hi>Tamar</hi> by <hi>Rinebrand.</hi>
+               </item>
+               <item>160 a Mans Head.</item>
+               <item>161 Our Saviour with <hi>Mary</hi> and <hi>Martha.</hi>
+               </item>
+               <item>162 St. <hi>Sebaſtian</hi> in the heighth by <hi>Dewitt.</hi>
+               </item>
+               <item>163 an Original Landskip the figures by <hi>David Teniers.</hi>
+               </item>
+               <item>164 a Man and a Croſs-bow.</item>
+               <item>165 a Sea Harbour by <hi>Hartfelt.</hi>
+               </item>
+               <item>166 King <hi>Priamus</hi> and <hi>Hector</hi> of <hi>Troy.</hi>
+               </item>
+               <pb n="5" facs="tcp:30860:4"/>
+               <item>167 A Horſe piece.</item>
+               <item>168 <hi>Diana</hi> an Original.</item>
+               <item>169 a deaths Head by <hi>Tintarett.</hi>
+               </item>
+               <item>170 an Original Vanity by <hi>Octavia Venus.</hi>
+               </item>
+               <item>171 a Shepherd very well Painted.</item>
+               <item>172 a Man with a Gnn.</item>
+               <item>173 a pc of Leopards.</item>
+               <item>174 Our Saviour and the Doctors in the Temple.</item>
+               <item>175 <hi>Saul</hi> and <hi>David.</hi>
+               </item>
+               <item>176 King <hi>James</hi> the firſt.</item>
+               <item>177 a Head done by <hi>Tintaret.</hi>
+               </item>
+               <item>178 a Compartment of Flowers by <hi>Vanbrugen.</hi>
+               </item>
+               <item>179 a proſpect painted by a <hi>Sweed.</hi>
+               </item>
+               <item>180 a pc of Dogs and Bucks Original the Landskip by <hi>Emellrood.</hi>
+               </item>
+               <item>181 <hi>Jacob</hi> and <hi>Laban.</hi>
+               </item>
+               <item>182 a Pheaſant and other Fowl.</item>
+               <item>183 Lady <hi>Jones</hi> after <hi>Vandyke</hi> of <hi>Huysmans.</hi>
+               </item>
+               <item>184 <hi>Tictakers</hi> Original of <hi>Courtiers.</hi>
+               </item>
+               <item>185 Sir <hi>Philip Sydney</hi> a whole length.</item>
+               <item>186 a little Landskip done by a Italian Maſter.</item>
+               <item>187 <hi>Tarquin</hi> and <hi>Lucretia</hi>
+               </item>
+               <item>188 Drollery by <hi>Fruellen Brugell.</hi>
+               </item>
+               <item>189 a Winter pc by <hi>Momper.</hi>
+               </item>
+               <item>190 Queen <hi>Anne</hi> King <hi>James</hi> the firſt Conſort.</item>
+               <item>191 a Sea pc by <hi>Vrome.</hi>
+               </item>
+               <item>192 an Original Vanity by <hi>Gabroone.</hi>
+               </item>
+               <item>193 an old mans head by <hi>Purbus.</hi>
+               </item>
+               <item>194 <hi>Abraham</hi> and <hi>Iſaac</hi> a large pc by <hi>Streeter.</hi>
+               </item>
+               <item>195 The Virgin <hi>Mary</hi> done by <hi>Bleſs.</hi>
+               </item>
+               <item>196 a mans Head.</item>
+               <item>197 A barrels of Oyſters by a good hand.</item>
+               <item>198 an Original Fruit pc of <hi>Guilmans</hi> in a black Frame.</item>
+               <item>199 Fortune by old <hi>Hemskirke.</hi>
+               </item>
+               <item>200 an Original of <hi>Devoe's</hi> Birds and Fruit.</item>
+               <item>201 Our Saviour breaking bread original of <hi>Van Molen.</hi>
+               </item>
+               <item>202 a Carmeſs Original of <hi>Martins.</hi>
+               </item>
+               <item>203 a ſmall Sea pc of <hi>Perſellus.</hi>
+               </item>
+               <item>204 a pc of Magpyes finely painted.</item>
+               <item>205 Sir <hi>Francis Bacon</hi> a whole length.</item>
+               <item>206 a Fruit pc in a black Ebony Frame.</item>
+               <item>207 a ſmall Landskip by <hi>Welden.</hi>
+               </item>
+               <item>208 a 4 leaved <hi>Indian</hi> Skreen.</item>
+               <item>209 St. <hi>Johns</hi> head in a Charger by <hi>Mole.</hi>
+               </item>
+               <item>210 King <hi>William</hi> the Third in a whole length.</item>
+               <item>211 Reſurrection an Original of <hi>Jeronymus Buſs.</hi>
+               </item>
+               <item>212 a little head by <hi>Purbus.</hi>
+               </item>
+               <item>213 a four leaved Skreen.</item>
+               <pb n="6" facs="tcp:30860:5"/>
+               <item>214 A Fruit pc an Original of <hi>Verhelst.</hi>
+               </item>
+               <item>215 a Landskip by <hi>Brugell</hi> the Figures <hi>Reubens.</hi>
+               </item>
+               <item>216 <hi>Lydia</hi> by an Italian after <hi>Michael Angela.</hi>
+               </item>
+               <item>217 a Sea pc of <hi>Momper.</hi>
+               </item>
+               <item>218 a ſmall Landskip Original of <hi>Brugell</hi> a Gold Frame.</item>
+               <item>219 a Six leaved Skreen Hiſtory <hi>Martha</hi> and <hi>Mary.</hi>
+               </item>
+               <item>220 an Original pc of <hi>Diana.</hi>
+               </item>
+               <item>221 Two boys at Cards.</item>
+               <item>222 a naked boy of <hi>Streeter.</hi>
+               </item>
+               <item>223 a man lighting a Match.</item>
+               <item>224 a Summer pc of <hi>Momper.</hi>
+               </item>
+               <item>225 a pc of Green and Flowers very fine.</item>
+               <item>226 K. <hi>Hen.</hi> 7th. K. <hi>Hen.</hi> 8th. K. <hi>Edw.</hi> 6th. Qu. <hi>Mary.</hi>
+               </item>
+               <item>227 <hi>Ignatius Loyola.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:30860:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
